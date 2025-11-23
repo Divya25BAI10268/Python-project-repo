@@ -36,6 +36,6 @@ Test by adding multiple task.
 Try deleting or adding tasks.
 Check if invalid inputs are handled correctly.
 
-OUTPUT SCREENSHOT:
+OUTPUT:
 <img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/4f1be9c2-bad1-44b4-b1c3-0333c932541d" />
 
