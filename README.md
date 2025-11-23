@@ -1,4 +1,4 @@
-                                                                                         A TO-DO LIST APPLICATION
+                                                       A TO-DO LIST APPLICATION
 OVERVIEW:
 The To-Do List Application is a simple and efficient productivity tool designed to help users manage their daily tasks. It allows users to add tasks, view all tasks, update their completion status, and delete tasks when they are no longer needed.
 The project demonstrates key programming concepts such as modular design, input handling, persistence, and workflow management.
